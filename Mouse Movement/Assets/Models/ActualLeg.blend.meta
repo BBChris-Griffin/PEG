@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: bedb541fb6892b843af975982e9edf48
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: BezierCircle
+    100006: Bone
+    100008: Bone_001
+    100010: Bone_002
+    100012: corn_shape_mask
+    100014: lady_model_final
+    100016: mark_eyet
+    100018: Plane_003
+    100020: round_shape_mask
+    100022: round_shape_mask2
+    100024: side_r_shape_mask
+    100026: side_shape_mask
+    100028: Wall2
+    400000: //RootNode
+    400002: Armature
+    400004: BezierCircle
+    400006: Bone
+    400008: Bone_001
+    400010: Bone_002
+    400012: corn_shape_mask
+    400014: lady_model_final
+    400016: mark_eyet
+    400018: Plane_003
+    400020: round_shape_mask
+    400022: round_shape_mask2
+    400024: side_r_shape_mask
+    400026: side_shape_mask
+    400028: Wall2
+    2100000: skin__uv_lady_png
+    2100002: Material_001__uv_lady_png_001
+    2100004: Material_000__uv_lady_png_001
+    2100006: Material_007
+    2100008: Material_004
+    2300000: BezierCircle
+    2300002: corn_shape_mask
+    2300004: mark_eyet
+    2300006: Plane_003
+    2300008: round_shape_mask
+    2300010: round_shape_mask2
+    2300012: side_r_shape_mask
+    2300014: side_shape_mask
+    2300016: Wall2
+    3300000: BezierCircle
+    3300002: corn_shape_mask
+    3300004: mark_eyet
+    3300006: Plane_003
+    3300008: round_shape_mask
+    3300010: round_shape_mask2
+    3300012: side_r_shape_mask
+    3300014: side_shape_mask
+    3300016: Wall2
+    4300000: lady_model_final
+    4300002: BezierCircle
+    4300004: Plane_003
+    4300006: Wall2
+    4300008: corn_shape_mask
+    4300010: mark_eyet
+    4300012: round_shape_mask
+    4300014: round_shape_mask2
+    4300016: side_r_shape_mask
+    4300018: side_shape_mask
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: lady_model_final
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
